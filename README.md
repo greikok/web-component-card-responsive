@@ -1,1 +1,1 @@
-# wev-component-card-responsive
+# web-component-card-responsive
